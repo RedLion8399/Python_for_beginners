@@ -1,0 +1,26 @@
+# Every Line is executed separately
+print("Hello, World!")
+print("New Line")
+
+
+# Code indentation by whitespaces (4 spaces)
+if True:
+    ...
+elif False:
+    ...
+else:
+    ...
+
+def function():
+    ...
+
+class Classname:
+    ...
+
+try:
+    ...
+except Exception:
+    ...
+
+with open("file.txt") as file:
+    ...
